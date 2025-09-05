@@ -10,17 +10,18 @@
     --fonte3:'Sriacha', Cursive;
 
 }
-html, body{
-    background-color: darkgray;
-    min-height: 100vh;
-    font-family: var(--fonte1);
-}
+
 *{
     margin: 0px;
     padding: 0px;
     font-size: 1em;
 }
 
+html, body{
+    background-color: darkgray;
+    min-height: 100vh;
+    font-family: var(--fonte1);
+}
 
 header{
     background-color: black;
